@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yadu005
+- 👋 Hi, I’m Yadunandan
 - 👀 I’m interested in UI DEVELOPMENT
 - 🌱 I’m currently learning Python Basics
 - 📫 How to reach me - anythingofficial1@gmail.com
